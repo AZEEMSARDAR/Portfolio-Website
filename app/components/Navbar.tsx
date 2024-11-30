@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React from "react";
 import Image from "next/image";
-import { FaBeer } from "react-icons/fa";
 import { AiOutlineCloudDownload } from "react-icons/ai";
 
 export default function Navbar() {
@@ -33,7 +32,7 @@ export default function Navbar() {
               Projects
             </Link>
             <Link href="#contact" className="mr-5 hover:underline text-white">
-              Contact{" "}
+              Contact
             </Link>
           </nav>
           <a href="/assets/CV/My-Cv.PNG" download>

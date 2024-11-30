@@ -20,14 +20,13 @@ export default function About() {
               About Me 
             </h1>
             <p className="mb-5 leading-relaxed">
-            Hi, I'm Sardar Azeem Ali, a passionate frontend web developer skilled in HTML, CSS, JavaScript, React, and Next.js. I specialize in building responsive and dynamic websites with a focus on clean design and seamless user experiences. With a strong commitment to continuous learning, I enjoy creating innovative web solutions that bring ideas to life
-            </p>
-            <p className="mb-5 leading-relaxed">
-            Hi, I'm Sardar Azeem Ali, a passionate frontend web developer skilled in HTML, CSS, JavaScript, React, and Next.js. I specialize in building responsive and dynamic websites with a focus on clean design and seamless user experiences. With a strong commitment to continuous learning, I enjoy creating innovative web solutions that bring ideas to life
+              Hi I&apos;m Sardar Azeem Ali, a passionate frontend web developer skilled in HTML, CSS, JavaScript, React, and Next.js. 
+              I specialize in building responsive and dynamic websites with a focus on clean design and seamless user experiences. 
+              With a strong commitment to continuous learning, I enjoy creating innovative web solutions that bring ideas to life.
             </p>
             <div className="flex justify-center">
-                <Link target="_blank" href={"https://hakathon-milestone-01-pi.vercel.app/"}>
-              <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                <Link target="_blank" href="https://hakathon-milestone-01-pi.vercel.app/">
+              <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
                 View CV
               </button>
               </Link>
